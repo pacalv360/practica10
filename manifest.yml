@@ -12,6 +12,5 @@ applications:
   #Buildpack de Liberty
   #buildpack: liberty-for-java
   services:
-  - asrDCBCloudantNoSQL
   - asrTomcatEjemploCloudant
 
