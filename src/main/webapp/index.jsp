@@ -7,7 +7,7 @@
 <title>Proyecto ASR new...</title>
 </head>
 <body>
-<h1>Ejemplo de Proyecto MODIFICADO por Alvaroo para la practica 10c)</h1>
+<h1>Ejemplo de Proyecto MODIFICADO por Alvaroo para la practica 10c) EXITOSO</h1>
 <hr />
 <p>ZZZZZ Opciones <b>CLOUDANT o ZZZZZZ n IBM Cloud</b>:</p>
 <ul>
